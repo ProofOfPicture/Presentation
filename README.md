@@ -1,2 +1,4 @@
 # Presentation
-Presentation for PoP it @ BCH DEVCON Amsterdam 2018 
+Presentation as used for the PoP it app @ BCH DEVCON Amsterdam 2018 
+
+
